@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512989043766",
+    "project_id": "warung-tani",
+    "storage_bucket": "warung-tani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512989043766:android:56cf8a87e79abd46c00c97",
+        "android_client_info": {
+          "package_name": "com.example.warungtani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDur9uKTEVpIoJ2r44G9nhtcmRv62fFTk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
