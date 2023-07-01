@@ -1,6 +1,6 @@
 # Warung Tani
 
-Warung Tani merupakan marketplace yang menyediakan jasa berupa perantara antara petani dan konsumen. Ide proyek ini kami implementasikan untuk tugas akhir mata kuliah interaksi manusia komputer semester 5 dengan membuat UI/UX dan beberapa dokumen yang diperlukan, kemudian proyek ini kami lanjutkan untuk tugas akhir di Aplikasi Berbasis Smartphone kursus di semester 6 dengan membuat situs web backend dan API menggunakan framework laravel dan aplikasi seluler dengan Flutter
+Warung Tani merupakan marketplace yang menyediakan jasa berupa perantara antara petani dan konsumen. Ide proyek ini kami implementasikan untuk tugas akhir mata kuliah interaksi manusia komputer semester 5 dengan membuat UI/UX dan beberapa dokumen yang diperlukan, kemudian proyek ini kami lanjutkan untuk tugas akhir di Aplikasi Berbasis Platform yang merupakan mata kuliah di semester 6 dengan membuat situs web backend dan API menggunakan framework laravel dan aplikasi seluler dengan Flutter
 
 ## User Role
 Ini merupakan versi Mobilenya yang mana hanya dapat menggunakan Role Customer, Versi ini menggunakan API dari versi Web yang tersedia pada https://github.com/mraihanfauzii/WarungTaniAPP_Flutter, Versi Web dapat menggunakan Role Customer maupun Admin
